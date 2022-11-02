@@ -4,3 +4,4 @@ Master Here..
 Create Page Video..
 Create dashboard
 Create Page Login
+Create Page Forget Pass
